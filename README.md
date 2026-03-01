@@ -94,44 +94,11 @@ The application follows a modular object-oriented structure:
 
 ---
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/events-calendar.git
-```
-
-Navigate into the project directory:
-
-```bash
-cd events-calendar
-```
-
-Run the application:
-
-```bash
-python main.py
-```
-
----
-
 ## 📱 Platform
 
 - Desktop application  
 - Offline-first design  
 - Cross-platform (Windows / macOS / Linux with Python support)
-
----
-
-## 🔮 Future Enhancements
-
-- Recurring event support  
-- Search functionality  
-- Drag-and-drop rescheduling  
-- Export to CSV  
-- Notification reminders  
-- Optional cloud synchronization  
 
 ---
 
