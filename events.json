@@ -1,0 +1,24 @@
+{
+  "2026-03-01": [
+    {
+      "title": "Solving  DSA",
+      "date": "2026-03-01",
+      "time": "23:59",
+      "category": "Study",
+      "priority": "High",
+      "status": "Done",
+      "notes": ""
+    }
+  ],
+  "2026-03-02": [
+    {
+      "title": "hvk",
+      "date": "2026-03-02",
+      "time": "00:20",
+      "category": "Health",
+      "priority": "Medium",
+      "status": "Pending",
+      "notes": ""
+    }
+  ]
+}
